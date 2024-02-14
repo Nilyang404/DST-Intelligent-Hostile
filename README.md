@@ -3,7 +3,7 @@ An exciting large mod
 
 ![image](https://github.com/Nilyang404/DST-Intelligent-Hostile/assets/63556313/a2dcbd93-4471-4ef3-a55a-fce24bb5a57f)
 
-published on Steam workshop![[Link](https://github.com/Nilyang404/DST-Intelligent-Hostile/assets/63556313/a2dcbd93-4471-4ef3-a55a-fce24bb5a57f)](https://steamcommunity.com/sharedfiles/filedetails/?id=2677277428)
+published on Steam workshop!link(https://steamcommunity.com/sharedfiles/filedetails/?id=2677277428)
 
 New challenges, more exciting survival...
 
