@@ -64,3 +64,6 @@ Version Adjustment (2022.02.05) :
 Some of the gameplay and difficulty has been modified and adjusted, hoping that more players can start playing; There are some small bugs, but they do not affect the overall operation. I have no time to find the code. First, I am not a computer related major, so the speed is slow and the time is short. Second, this mod is not created by myself, and there are many files, it does take longer to find files and codes, and then have a closer look when you are free, hope to understand.
 
 Compatibility issues with other larger mods are common and often not just a matter of which side changes the code. Finally, I wish you have fun!
+
+--------------
+Since the original author had stopped maintaining it for many years, I contacted the original author, Brother Pig, and obtained permission, and my friend and I fixed it to adapt it to the current version.
